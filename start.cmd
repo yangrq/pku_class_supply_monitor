@@ -1,0 +1,1 @@
+python.exe -u .\pku_class_supply_monitor.py
